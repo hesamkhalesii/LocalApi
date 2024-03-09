@@ -1,7 +1,7 @@
 import telebot
 
 # توکن ربات تلگرام خود را اینجا وارد کنید
-TOKEN = '6632893028:AAElv8JeF9VrSzNQIwUvlK1c1s5lmJTnRmk'
+TOKEN = ''
 
 # ایجاد یک شی ربات
 bot = telebot.TeleBot(TOKEN, threaded=False)
