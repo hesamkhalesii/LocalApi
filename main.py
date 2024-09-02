@@ -28,7 +28,7 @@ def echo_all(message):
         bot.reply_to(message, "راه های ارتباطی : \n Website : www.hesamkhalesi.ir \n Anonymouslink(پیام مستقیم) : https://telegram.me/BiChatBot?start=sc-1111229-XHxxQvo")
 
     elif message.text == "نمونه کارها":
-        bot.reply_to(message, "میتونی نمونه کار ها و پروژه هاشو تو کانال زیر ببینی : \n tg.me/hesam_Desighner" )
+        bot.reply_to(message, "میتونی نمونه کار ها و پروژه هاشو تو کانال زیر ببینی : \n @hesam_Desighner" )
     
     elif message.text == "درمورد من": 
         bot.reply_to(message, "حسام خالصی ملقب به لورد و پدر جاوا اسکریپت شناخته میشود. \n\n گفته میشه بتمن و سوپرمن 2 تا از زیردستاش بودن و راضی هم هستن. \n پیشنهاد میکنم امتحان کنید \n برنامه نویس و کد نویسی در رگ هاش جاریه ، وقتی فعال شد من درست شدم. \n اگه میخوای بیشتر بدونی برو تو سایتش  : \n www.hesamkhalesi.ir" )
